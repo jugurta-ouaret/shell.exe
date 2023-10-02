@@ -1,0 +1,11 @@
+colo     tty2         tty2             Wed Sep 27 14:52    gone - no logout
+reboot   system boot  6.1.0-12-arm64   Wed Sep 27 14:51   still running
+colo     tty3         tty3             Tue Sep 26 15:30 - down   (01:37)
+colo     tty3         tty3             Tue Sep 26 12:29 - 15:30  (03:01)
+colo     tty3         tty3             Mon Sep 25 12:26 - 12:29 (1+00:02)
+colo     tty3         tty3             Mon Sep 25 11:35 - 12:26  (00:51)
+colo     tty3         tty3             Mon Sep 25 10:51 - 11:34  (00:43)
+user     tty2         tty2             Mon Sep 25 10:49 - down  (1+06:19)
+reboot   system boot  6.1.0-12-arm64   Mon Sep 25 10:48 - 17:08 (1+06:19)
+
+wtmp commence Mon Sep 25 10:48:58 2023
